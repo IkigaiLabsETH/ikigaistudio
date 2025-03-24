@@ -20,6 +20,11 @@
     "dist"
   ],
   "dependencies": {
+    "@elizaos-plugins/client-discord": "github:elizaos-plugins/client-discord",
+    "@elizaos-plugins/client-slack": "github:elizaos-plugins/client-slack",
+    "@elizaos-plugins/plugin-3d-generation": "github:elizaos-plugins/plugin-3d-generation",
+    "@elizaos-plugins/plugin-image-generation": "github:elizaos-plugins/plugin-image-generation",
+    "@elizaos-plugins/plugin-nft-generation": "github:elizaos-plugins/plugin-nft-generation",
     "@elizaos-plugins/plugin-thirdweb": "github:elizaos-plugins/plugin-thirdweb",
     "@elizaos/cli": "1.0.0-beta.7",
     "@elizaos/core": "1.0.0-beta.7",
